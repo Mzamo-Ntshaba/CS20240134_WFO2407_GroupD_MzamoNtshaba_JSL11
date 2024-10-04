@@ -1,7 +1,9 @@
 **LOOM VIDEO LINK**
 
 **PRESENTATION SLIDES**
- https://docs.google.com/presentation/d/1FyvbiTN7K6IeXw4_CyuJTRziKS3PZhe2aOLhtiogemY/edit?usp=sharing
+ 
+ 
+https://docs.google.com/presentation/d/1FyvbiTN7K6IeXw4_CyuJTRziKS3PZhe2aOLhtiogemY/edit?usp=sharing
 
 
 ### [JSL11] Agile Board - Kanban Task Management App
